@@ -1,0 +1,22 @@
+# File hasil kompilasi Java & Maven
+target/
+*.class
+
+# Folder output manual
+out/
+bin/
+build/
+
+# File & Folder IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
